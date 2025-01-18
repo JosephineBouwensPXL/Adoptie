@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CildAdoptie.Controllers.API.AdoptionController",
+    "Method": "Create",
+    "RelativePath": "api/Adoption",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CildAdoptie.Models.AdoptionRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
